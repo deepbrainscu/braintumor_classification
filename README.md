@@ -16,7 +16,7 @@ We couldn't upload trained weights file because there is a 100MB file upload lim
    
    2- If you want to see the performance of the system, download pre-trained weight from **[HERE]( https://drive.google.com/drive/folders/1UBthw32L_4ZL-Trml9yLqAUzWDpjg-yx?usp=sharing)**
 
-  .Then run the file using the file in /Dataset_DICOM directory.
+  .Then run that file in ** brain_tumor_prediction.py** by using images in /Dataset_DICOM directory.
    
    3- Run all codes in ** brain_tumor_train.py** to classify brain tumors
    
