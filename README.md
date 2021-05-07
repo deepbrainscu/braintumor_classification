@@ -1,10 +1,5 @@
 # Brain Tumors Classification with Deep Learning using Data Augmentation
 
-If you find this code useful in your research, please cite this study. 
-
-Gurkahraman, K., & Karakis, R. (2021) Brain Tumors Classification with Deep Learning using Data Augmentation. Journal of the Faculty of Engineering and Architecture of Gazi University. 36 (2): 997-1011, https://dergipark.org.tr/tr/download/article-file/1181914
-
-
 Medical image classification is the process of separating data into a specified number of classes. In this project, we aimed to classify three different brain tumors (glioma, meningioma and pituitary) using convolutional neural network (CNN) on T1-weighted MR images. The weights were initialized by transferring to CNN from DenseNet121 network, which was previously trained with ImageNet dataset. 
 
 In addition, data augmentation was performed on MR images using affine and pixel-level transformations. 
@@ -14,6 +9,8 @@ The features obtained from the first fully connected layer of the trained CNN we
 
 We couldn't upload trained weights file because there is a 100MB file upload limit on GitHub. You can download pre-trained weight file from **[HERE]( https://drive.google.com/drive/folders/1UBthw32L_4ZL-Trml9yLqAUzWDpjg-yx?usp=sharing)** 
 
+If you find this code useful in your research, please cite this study. 
+Gurkahraman, K., & Karakis, R. (2021) Brain Tumors Classification with Deep Learning using Data Augmentation. Journal of the Faculty of Engineering and Architecture of Gazi University. 36 (2): 997-1011, https://dergipark.org.tr/tr/download/article-file/1181914.
 
 # Step By Step Usage
       
